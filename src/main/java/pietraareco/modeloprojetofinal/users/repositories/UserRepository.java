@@ -1,8 +1,8 @@
-package seunomeaqui.modeloprojetofinal.users.repositories;
+package pietraareco.modeloprojetofinal.users.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import seunomeaqui.modeloprojetofinal.users.entities.User;
+import pietraareco.modeloprojetofinal.users.entities.User;
 
 import java.util.List;
 

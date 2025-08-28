@@ -1,10 +1,10 @@
-package seunomeaqui.modeloprojetofinal.users.services;
+package pietraareco.modeloprojetofinal.users.services;
 
 import jakarta.persistence.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import seunomeaqui.modeloprojetofinal.users.entities.User;
-import seunomeaqui.modeloprojetofinal.users.repositories.UserRepository;
+import pietraareco.modeloprojetofinal.users.entities.User;
+import pietraareco.modeloprojetofinal.users.repositories.UserRepository;
 
 @Service
 @RequiredArgsConstructor
